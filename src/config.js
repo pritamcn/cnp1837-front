@@ -1,0 +1,9 @@
+export const Url = 'https://cnp1837-api.developer24x7.com/'
+export const baseURL = Url + "api/frontend"; //development
+export const imagePath = Url + "public/images/"
+export const filePath = Url + "public/caseUploadFile"
+export const transcriptFilePath = Url + "public/transcriptUploadFile"
+export const chatFilePath = Url + "public/chatUploadFile"
+export const serviceFilePath=Url+"public/serviceUploadFile/"
+export const cmsFilePath=Url+"public/cmsUploadFile/"
+export const bannerFilePath=Url+"public/bannerUploadFile/"
